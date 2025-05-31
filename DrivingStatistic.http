@@ -1,0 +1,5 @@
+@DrivingStatistic_HostAddress = http://localhost:5206
+
+###
+
+GET {{DrivingStatistic_HostAddress}}/driver
